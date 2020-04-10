@@ -1,0 +1,2 @@
+For version 0.0.1 of this project, I want to create a simple python program that will extract text from PDFs
+I don't know what I would want to do with this yet but I will keep updating over time and make it better
